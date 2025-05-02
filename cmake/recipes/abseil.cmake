@@ -11,4 +11,4 @@ option(ABSL_USE_SYSTEM_INCLUDES "Silence warnings in Abseil headers by marking t
 option(ABSL_BUILD_TESTING "If ON, Abseil will build all of Abseil's own tests." OFF)
 
 include(CPM)
-CPMAddPackage("gh:abseil/abseil-cpp#20230125.3")
+CPMAddPackage("gh:abseil/abseil-cpp#20250127.1")
